@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Link{
+    list-style: none;
+}
+.logo_company{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
